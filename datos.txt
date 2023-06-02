@@ -1,3 +1,5 @@
+
 Nombre: Santino Cazzolla
 IP: 
-Hora: 
+IP: 192.168.0.73
+Hora: 11:08:23
