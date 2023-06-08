@@ -1,5 +1,8 @@
 
-Nombre: Santino Cazzolla
-IP: 
+Nombre: Santino Cazzolla 
 IP: 192.168.0.73
 Hora: 11:08:23
+
+Nombre: Nicolas Amiano 
+IP: 192.163.0.23
+Hora: 12:04:34
